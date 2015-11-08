@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.giotis_kal.gchatclient.Main
+
